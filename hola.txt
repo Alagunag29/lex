@@ -1,0 +1,8 @@
+String
+string
+int
+{
+)
+(
+]
+boolean
